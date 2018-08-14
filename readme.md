@@ -1,4 +1,4 @@
-## Skeleton for Node.js applications written in TypeScript
+## Node.js Server for CV-Generator
 
 ### Development
 
